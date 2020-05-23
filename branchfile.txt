@@ -1,1 +1,5 @@
+
+i made changes to branch file in My branch
+
 this is the change in master branch to check if there's a merge conflict
+
